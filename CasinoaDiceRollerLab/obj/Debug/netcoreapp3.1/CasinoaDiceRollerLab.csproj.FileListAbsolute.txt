@@ -1,0 +1,13 @@
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\bin\Debug\netcoreapp3.1\CasinoaDiceRollerLab.exe
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\bin\Debug\netcoreapp3.1\CasinoaDiceRollerLab.deps.json
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\bin\Debug\netcoreapp3.1\CasinoaDiceRollerLab.runtimeconfig.json
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\bin\Debug\netcoreapp3.1\CasinoaDiceRollerLab.runtimeconfig.dev.json
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\bin\Debug\netcoreapp3.1\CasinoaDiceRollerLab.dll
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\bin\Debug\netcoreapp3.1\CasinoaDiceRollerLab.pdb
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\obj\Debug\netcoreapp3.1\CasinoaDiceRollerLab.csprojAssemblyReference.cache
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\obj\Debug\netcoreapp3.1\CasinoaDiceRollerLab.AssemblyInfoInputs.cache
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\obj\Debug\netcoreapp3.1\CasinoaDiceRollerLab.AssemblyInfo.cs
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\obj\Debug\netcoreapp3.1\CasinoaDiceRollerLab.csproj.CoreCompileInputs.cache
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\obj\Debug\netcoreapp3.1\CasinoaDiceRollerLab.dll
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\obj\Debug\netcoreapp3.1\CasinoaDiceRollerLab.pdb
+C:\Users\12482\source\repos\CasinoaDiceRollerLab\CasinoaDiceRollerLab\obj\Debug\netcoreapp3.1\CasinoaDiceRollerLab.genruntimeconfig.cache
